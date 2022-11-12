@@ -36,10 +36,6 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╔═══╗ ♪
-║███║ ♫.        🅼🅴🅽🆄 🅱︎🅾︎🆃
-║ (●) ♫.       🅱︎🆈 🅹🅰🆈🅱🅾🆃🆉▶️
-╚═══╝♪♪
 ❂═══❖•ೋ•:･ﾟ✧:･ﾟ✧
 ╟ꂑ 𝐻𝑎𝑖, %ucapan %name! 👋
 ┗━━━•❅•°•❈
@@ -52,7 +48,7 @@ const defaultMenu = {
 ╟📅*𝐓𝐚𝐧𝐠𝐠𝐚𝐥:* %date
 ╟🕔*𝐔𝐩𝐭𝐢𝐦𝐞:* %uptime (%muptime)
 ╟👨‍👨‍👧‍👧*𝐒𝐚𝐫𝐚𝐧𝐠𝐁𝐨𝐭:*
-╟ https://chat.whatsapp.com/GRigRq6LkoMDR7HOwkQAIO
+╟ https://chat.whatsapp.com/CNf3yQ3N5omBMVJy3xpvRt
 ╚»★★ミ✧･ﾟ: ✧ﾟ･:
 
 
@@ -182,15 +178,15 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '✏️ S̺͆o̺͆u̺͆r̺͆c̺͆e̺͆ C̺͆o̺͆d̺͆e̺͆',
-               url: 'https://linkr.bio/JAYBOTz'
+               displayText: 'GRUB MINECRAFT',
+               url: 'https://chat.whatsapp.com/DFv1xuDYE39AAo5bBoimar'
              }
 
            },
              {
              callButton: {
                displayText: 'H̺͆p̺͆ O̺͆w̺͆n̺͆e̺͆r̺͆',
-               PhoneNumber: '0851-6277-8904'
+               PhoneNumber: '0851904'
              }
 
            },
